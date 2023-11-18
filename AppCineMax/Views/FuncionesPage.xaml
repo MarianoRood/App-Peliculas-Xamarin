@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCineMax.Views.FuncionesPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Proximas Funciones Disponibles" FontSize="24" FontAttributes="Bold" HorizontalTextAlignment="Center" TextColor="Black" Margin="0,10,0,0" />
+            <Label x:Name="name_pelicula" FontSize="20" FontAttributes="Bold" HorizontalTextAlignment="Center" TextColor="Black" Margin="0,10,0,0" />
+
+            <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" Color="{AppThemeBinding Light=#1690F4, Dark=#AE72E7}"/>
+
+            <ListView x:Name="lfunciones" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" SeparatorColor="Black" RowHeight="100" ItemSelected="lfunciones_ItemSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout>
+                                <Label Text="{Binding date_function}" FontSize="15" FontAttributes="Bold" HorizontalTextAlignment="Center" TextColor="Black" Margin="0,5,0,0" />
+                                <Button Clicked="OnButtonClicked" BackgroundColor = "Transparent" BorderColor = "Blue" BorderWidth = "2" TextColor = "Color.Blue" CornerRadius = "20" WidthRequest = "100" HeightRequest = "50" Text="{Binding hour_function}"  />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

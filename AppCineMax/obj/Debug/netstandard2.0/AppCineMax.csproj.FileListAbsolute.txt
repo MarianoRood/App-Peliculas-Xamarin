@@ -1,0 +1,59 @@
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\bin\Debug\netstandard2.0\AppCineMax.deps.json
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\bin\Debug\netstandard2.0\AppCineMax.dll
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\bin\Debug\netstandard2.0\ref\AppCineMax.dll
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\bin\Debug\netstandard2.0\AppCineMax.pdb
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\AppCineMax.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\AppCineMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\Views\CategoriasPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\Views\DetailPeliculaPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\Views\DirectoresPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\Views\FuncionesPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\Views\InicioPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\Views\PeliculasPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\Views\ReservaPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\Views\SalasPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\AppCineMax.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\AppCineMax.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\AppCineMax.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\AppCineMax.csproj.CopyComplete
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\AppCineMax.dll
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\refint\AppCineMax.dll
+C:\Users\maria\OneDrive\Documentos\Escuela\Desarrollo Movil Integral\Proyecto Cine Max\AppCineMax\AppCineMax\obj\Debug\netstandard2.0\AppCineMax.pdb
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\bin\Debug\netstandard2.0\AppCineMax.deps.json
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\bin\Debug\netstandard2.0\AppCineMax.dll
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\bin\Debug\netstandard2.0\ref\AppCineMax.dll
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\bin\Debug\netstandard2.0\AppCineMax.pdb
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\AppCineMax.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\AppCineMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\Views\CategoriasPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\Views\DetailPeliculaPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\Views\DirectoresPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\Views\FuncionesPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\Views\InicioPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\Views\PeliculasPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\Views\ReservaPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\Views\SalasPage.xaml.g.cs
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\AppCineMax.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\AppCineMax.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\AppCineMax.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\AppCineMax.csproj.CopyComplete
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\AppCineMax.dll
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\refint\AppCineMax.dll
+C:\Users\maria\OneDrive\Documentos\GitHub\App-Peliculas-Xamarin\AppCineMax\obj\Debug\netstandard2.0\AppCineMax.pdb

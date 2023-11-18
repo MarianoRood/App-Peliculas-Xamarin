@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gKmOpjnqD9Jca0VN9INw7esXZ27iO+xCjfaIZ0SdoIocXy3/Vo0Fii2+hpXmXFayJQ5tltAJ6UMEdKdiRNQhLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maria\\OneDrive\\Documentos\\GitHub\\App-Peliculas-Xamarin\\AppCineMax.iOS\\AppCineMax.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maria\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\maria\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\maria\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\maria\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

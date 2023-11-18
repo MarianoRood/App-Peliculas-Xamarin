@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppCineMax.Views.InicioPage">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
+                <Label></Label>
+                <StackLayout>
+                    <ContentView>
+                        <Image Source="utt.png" VerticalOptions="Center" HeightRequest="140"></Image>
+                    </ContentView>
+                </StackLayout>
+                <ScrollView>
+                    <StackLayout>
+                        <StackLayout Orientation="Vertical" VerticalOptions="Center">
+                            <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" Color="{AppThemeBinding Light=#1690F4, Dark=#AE72E7}"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Vertical" VerticalOptions="Center" Padding="30,24,30,24">
+                            <Label Text="Nombre del Alumno" HorizontalTextAlignment="Center" FontSize="Body" FontAttributes="Bold" TextColor="Black"/>
+                            <Label Text="Mariano Alejandro Cabral Rodriguez" HorizontalTextAlignment="Center" FontSize="Body" FontAttributes="Bold" TextColor="Black"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Vertical" VerticalOptions="Center">
+                            <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" Color="{AppThemeBinding Light=#1690F4, Dark=#AE72E7}"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Vertical" VerticalOptions="Center" Padding="30,24,30,24">
+                            <Label Text="Matricula del Alumno" HorizontalTextAlignment="Center" FontSize="Body" FontAttributes="Bold" TextColor="Black"/>
+                            <Label Text="20170010" HorizontalTextAlignment="Center" FontSize="Body" FontAttributes="Bold" TextColor="Black"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Vertical" VerticalOptions="Center">
+                            <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" Color="{AppThemeBinding Light=#1690F4, Dark=#AE72E7}"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Vertical" VerticalOptions="Center" Padding="30,24,30,24">
+                            <Label Text="Cuatrimestre y Sección" HorizontalTextAlignment="Center" FontSize="Body" FontAttributes="Bold" TextColor="Black"/>
+                            <Label Text="10 °A" HorizontalTextAlignment="Center" FontSize="Body" FontAttributes="Bold" TextColor="Black"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Vertical" VerticalOptions="Center">
+                            <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" Color="{AppThemeBinding Light=#1690F4, Dark=#AE72E7}"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Vertical" VerticalOptions="Center" Padding="30,24,30,24">
+                            <Label Text="Materia" HorizontalTextAlignment="Center" FontSize="Body" FontAttributes="Bold" TextColor="Black"/>
+                            <Label Text="Desarrollo Movil Integral" HorizontalTextAlignment="Center" FontSize="Body" FontAttributes="Bold" TextColor="Black"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Vertical" VerticalOptions="Center">
+                            <BoxView HorizontalOptions="FillAndExpand" HeightRequest="1" Color="{AppThemeBinding Light=#1690F4, Dark=#AE72E7}"/>
+                        </StackLayout>
+                        <StackLayout Orientation="Vertical" VerticalOptions="Center" Padding="30,24,30,24">
+                            <Label Text="Docente" HorizontalTextAlignment="Center" FontSize="Body" FontAttributes="Bold" TextColor="Black"/>
+                            <Label Text="Dr. Eliasib Reyes Moreno" HorizontalTextAlignment="Center" FontSize="Body" FontAttributes="Bold" TextColor="Black"/>
+                        </StackLayout>
+                    </StackLayout>
+                </ScrollView>
+
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
